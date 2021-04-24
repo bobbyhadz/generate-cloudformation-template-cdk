@@ -2,7 +2,6 @@
 
 A repository for an article on
 [bobbyhadz.com](https://bobbyhadz.com/blog/generate-cloudformation-template-cdk)
-`<- Update Link`
 
 ## How to Use
 

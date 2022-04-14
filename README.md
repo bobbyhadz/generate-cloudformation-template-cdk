@@ -16,5 +16,5 @@ npm install
 3. Synthesize the CloudFormation stack
 
 ```bash
-npx cdk synth
+npx aws-cdk synth
 ```

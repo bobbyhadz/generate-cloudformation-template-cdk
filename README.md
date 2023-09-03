@@ -1,7 +1,7 @@
 # How to Generate a CloudFormation Template in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/generate-cloudformation-template-cdk)
+[bobbyhadz.com](https://bobbyhadz.com/blog/what-aws-cdk-bootstrap-do)
 
 ## How to Use
 
